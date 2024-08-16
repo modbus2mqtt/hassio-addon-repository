@@ -1,0 +1,5 @@
+{
+    "name": "Repository for Home Assistant Add-on Modbus <=> MQTT",
+    "url": "https://github.com/modbus2mqtt/hassio-addon-repository",
+    "maintainer": "Volkmar Nissen <volkmar.nissen@gmail.com>"
+}

@@ -1,6 +1,6 @@
 name: 'Modbus <=> MQTT'
 description: 'Service converts RTU and TCP Modbus to MQTT from other'
-version: 0.16.1
+version: 0.16.2
 url: https://github.com/modbus2mqtt/hassio-addon
 webui: http://[HOST]:[PORT:3000]
 panel_icon: mdi:arrow-left-right-bold-outline

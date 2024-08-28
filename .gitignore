@@ -1,3 +1,1 @@
-modbus2mqtt/Dockerfile
 modbus2mqtt/rootfs.tar
-modbus2mqtt/config.yaml

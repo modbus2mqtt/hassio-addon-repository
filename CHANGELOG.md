@@ -1,8 +1,20 @@
 # Changelog
 
+## [v0.16.4](https://github.com/modbus2mqtt/server/tree/v0.16.4) (2024-08-28)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.3...v0.16.4)
+
+**Merged pull requests:**
+
+- Fixes for Homeassistant Addon MQTT processing [\#10](https://github.com/modbus2mqtt/server/pull/10) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.3](https://github.com/modbus2mqtt/server/tree/v0.16.3) (2024-08-23)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.2...v0.16.3)
+
+**Fixed bugs:**
+
+- Fixes for Unit Tests\(and CI/CD\) [\#9](https://github.com/modbus2mqtt/server/pull/9) ([volkmarnissen](https://github.com/volkmarnissen))
 
 **Merged pull requests:**
 
@@ -62,7 +74,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
 
 
 

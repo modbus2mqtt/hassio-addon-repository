@@ -1,5 +1,18 @@
 # Changelog
 
+## [v0.16.6](https://github.com/modbus2mqtt/server/tree/v0.16.6) (2024-09-16)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.5...v0.16.6)
+
+**Closed issues:**
+
+- unable to edit specification [\#13](https://github.com/modbus2mqtt/server/issues/13)
+- Default modbus2mqtt.yaml [\#11](https://github.com/modbus2mqtt/server/issues/11)
+
+**Merged pull requests:**
+
+- Hassio addon [\#14](https://github.com/modbus2mqtt/server/pull/14) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.5](https://github.com/modbus2mqtt/server/tree/v0.16.5) (2024-09-06)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.4...v0.16.5)

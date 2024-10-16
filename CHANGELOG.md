@@ -1,5 +1,19 @@
 # Changelog
 
+## [v0.16.8](https://github.com/modbus2mqtt/server/tree/v0.16.8) (2024-10-16)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.7...v0.16.8)
+
+**Closed issues:**
+
+- Unable to change modbus poll interval [\#17](https://github.com/modbus2mqtt/server/issues/17)
+- Unable to start modbus2mqtt on HA - error "MQTT client is not connected" [\#15](https://github.com/modbus2mqtt/server/issues/15)
+
+**Merged pull requests:**
+
+- Fix build issues with octokit [\#19](https://github.com/modbus2mqtt/server/pull/19) ([volkmarnissen](https://github.com/volkmarnissen))
+- New Features and fix for tcp/ip timeout [\#18](https://github.com/modbus2mqtt/server/pull/18) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.7](https://github.com/modbus2mqtt/server/tree/v0.16.7) (2024-09-24)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.6...v0.16.7)

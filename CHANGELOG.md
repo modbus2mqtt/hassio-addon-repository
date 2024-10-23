@@ -1,5 +1,28 @@
 # Changelog
 
+## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.9...HEAD)
+
+**Closed issues:**
+
+- Unable to download local setting zip [\#23](https://github.com/modbus2mqtt/server/issues/23)
+- Number is not updated, when value changes in home assistant [\#22](https://github.com/modbus2mqtt/server/issues/22)
+- Uploaded image files are not visible in specification image gallery [\#21](https://github.com/modbus2mqtt/server/issues/21)
+- Version 0.16.8 bus poll error [\#20](https://github.com/modbus2mqtt/server/issues/20)
+
+## [v0.16.9](https://github.com/modbus2mqtt/server/tree/v0.16.9) (2024-10-23)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.8...v0.16.9)
+
+**Closed issues:**
+
+- standalone Docker Version [\#25](https://github.com/modbus2mqtt/server/issues/25)
+
+**Merged pull requests:**
+
+- Add step property for Discovery, fix modbus TCP, Fix file uploads, fix authentication [\#24](https://github.com/modbus2mqtt/server/pull/24) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.8](https://github.com/modbus2mqtt/server/tree/v0.16.8) (2024-10-16)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.7...v0.16.8)

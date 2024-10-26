@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+## [v0.16.10](https://github.com/modbus2mqtt/server/tree/v0.16.10) (2024-10-26)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.9...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.9...v0.16.10)
 
 **Closed issues:**
 
@@ -10,6 +10,11 @@
 - Number is not updated, when value changes in home assistant [\#22](https://github.com/modbus2mqtt/server/issues/22)
 - Uploaded image files are not visible in specification image gallery [\#21](https://github.com/modbus2mqtt/server/issues/21)
 - Version 0.16.8 bus poll error [\#20](https://github.com/modbus2mqtt/server/issues/20)
+
+**Merged pull requests:**
+
+- Fix for hassio Addon [\#28](https://github.com/modbus2mqtt/server/pull/28) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fixes: standalone container: register user was not allowed [\#27](https://github.com/modbus2mqtt/server/pull/27) ([volkmarnissen](https://github.com/volkmarnissen))
 
 ## [v0.16.9](https://github.com/modbus2mqtt/server/tree/v0.16.9) (2024-10-23)
 

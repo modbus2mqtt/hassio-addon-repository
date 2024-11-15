@@ -1,5 +1,29 @@
 # Changelog
 
+## [v0.16.12](https://github.com/modbus2mqtt/server/tree/v0.16.12) (2024-11-15)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.11...v0.16.12)
+
+**Fixed bugs:**
+
+- Standalone docker container: No registration of user possible [\#26](https://github.com/modbus2mqtt/server/issues/26)
+
+**Closed issues:**
+
+- Conflict with zigbee2mqtt - zigbee devices disappears [\#40](https://github.com/modbus2mqtt/server/issues/40)
+- \[Manufacturer related\] Unable to use negative temperatures [\#39](https://github.com/modbus2mqtt/server/issues/39)
+- \[FEAT\] Set availability of datapoint based on config-value [\#35](https://github.com/modbus2mqtt/server/issues/35)
+- \[BUG\] Measurements missing "state\_class: measurement" [\#34](https://github.com/modbus2mqtt/server/issues/34)
+- \[BUG\] Poll Interval not shown on creating slave [\#33](https://github.com/modbus2mqtt/server/issues/33)
+- \[FEAT\] disable auth [\#31](https://github.com/modbus2mqtt/server/issues/31)
+- \[FEAT\] support anonymous mqtt-connection [\#30](https://github.com/modbus2mqtt/server/issues/30)
+
+**Merged pull requests:**
+
+- MQTT discovery state\_class, logon/MQTT no authentication [\#43](https://github.com/modbus2mqtt/server/pull/43) ([volkmarnissen](https://github.com/volkmarnissen))
+- Merge pull request \#2 from modbus2mqtt/main [\#42](https://github.com/modbus2mqtt/server/pull/42) ([volkmarnissen](https://github.com/volkmarnissen))
+- Add cypress tests in ci [\#41](https://github.com/modbus2mqtt/server/pull/41) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.11](https://github.com/modbus2mqtt/server/tree/v0.16.11) (2024-10-26)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.10...v0.16.11)
@@ -27,10 +51,6 @@
 ## [v0.16.9](https://github.com/modbus2mqtt/server/tree/v0.16.9) (2024-10-23)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.8...v0.16.9)
-
-**Closed issues:**
-
-- standalone Docker Version [\#25](https://github.com/modbus2mqtt/server/issues/25)
 
 **Merged pull requests:**
 

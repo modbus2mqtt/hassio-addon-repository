@@ -1,5 +1,26 @@
 # Changelog
 
+## [v0.16.13](https://github.com/modbus2mqtt/server/tree/v0.16.13) (2024-11-19)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.12...v0.16.13)
+
+**Merged pull requests:**
+
+- Fix e2e Test [\#58](https://github.com/modbus2mqtt/server/pull/58) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e test [\#57](https://github.com/modbus2mqtt/server/pull/57) ([volkmarnissen](https://github.com/volkmarnissen))
+- E2e Test [\#56](https://github.com/modbus2mqtt/server/pull/56) ([volkmarnissen](https://github.com/volkmarnissen))
+- E2e Test [\#55](https://github.com/modbus2mqtt/server/pull/55) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e test [\#54](https://github.com/modbus2mqtt/server/pull/54) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e Test [\#53](https://github.com/modbus2mqtt/server/pull/53) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e test [\#52](https://github.com/modbus2mqtt/server/pull/52) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e test [\#51](https://github.com/modbus2mqtt/server/pull/51) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e test [\#50](https://github.com/modbus2mqtt/server/pull/50) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix 2e2e test [\#49](https://github.com/modbus2mqtt/server/pull/49) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e test [\#48](https://github.com/modbus2mqtt/server/pull/48) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix e2e Test [\#47](https://github.com/modbus2mqtt/server/pull/47) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix package.json [\#46](https://github.com/modbus2mqtt/server/pull/46) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix for signed int16 data, Restore public version in specifications, Update validation messages after modbus value change [\#45](https://github.com/modbus2mqtt/server/pull/45) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.12](https://github.com/modbus2mqtt/server/tree/v0.16.12) (2024-11-15)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.11...v0.16.12)
@@ -174,7 +195,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
 
 
 

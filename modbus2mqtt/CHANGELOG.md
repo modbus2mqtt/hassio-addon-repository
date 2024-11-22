@@ -1,5 +1,21 @@
 # Changelog
 
+## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.14...HEAD)
+
+**Closed issues:**
+
+- Set Github Personal Token in Addon Scenario not possible [\#59](https://github.com/modbus2mqtt/server/issues/59)
+
+## [v0.16.14](https://github.com/modbus2mqtt/server/tree/v0.16.14) (2024-11-22)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.13...v0.16.14)
+
+**Merged pull requests:**
+
+- Fixes for MQTT discovery and minor UI changes [\#60](https://github.com/modbus2mqtt/server/pull/60) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.13](https://github.com/modbus2mqtt/server/tree/v0.16.13) (2024-11-19)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.12...v0.16.13)
@@ -195,7 +211,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
 
 
 

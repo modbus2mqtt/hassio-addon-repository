@@ -1,6 +1,6 @@
 name: 'Modbus <=> MQTT'
 description: 'Service converts RTU and TCP Modbus to MQTT from other'
-version: 0.16.14
+version: 0.16.15
 url: https://github.com/modbus2mqtt/server/blob/main/introduction.md
 webui: http://[HOST]:[PORT:3000]
 panel_icon: mdi:arrow-left-right-bold-outline

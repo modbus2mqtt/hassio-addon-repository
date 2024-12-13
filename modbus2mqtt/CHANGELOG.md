@@ -1,13 +1,26 @@
 # Changelog
 
-## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+## [v0.16.16](https://github.com/modbus2mqtt/server/tree/v0.16.16) (2024-12-13)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.15...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.15...v0.16.16)
+
+**Implemented enhancements:**
+
+- \[FEAT\] support for special values in Number registers [\#36](https://github.com/modbus2mqtt/server/issues/36)
+
+**Fixed bugs:**
+
+- Template variable warning: 'dict object' has no attribute 'ch3c1currentvalue' when rendering '{{ value\_json.ch3c1currentvalue }}' [\#63](https://github.com/modbus2mqtt/server/issues/63)
 
 **Closed issues:**
 
 - Set Unit of measurement for selected device classes [\#62](https://github.com/modbus2mqtt/server/issues/62)
 - Add MQTT qos to discovery and subscription [\#61](https://github.com/modbus2mqtt/server/issues/61)
+
+**Merged pull requests:**
+
+- Fix cypress test [\#66](https://github.com/modbus2mqtt/server/pull/66) ([volkmarnissen](https://github.com/volkmarnissen))
+- value template, decimal places and fixes for mqtt discovery, contribution [\#65](https://github.com/modbus2mqtt/server/pull/65) ([volkmarnissen](https://github.com/volkmarnissen))
 
 ## [v0.16.15](https://github.com/modbus2mqtt/server/tree/v0.16.15) (2024-12-11)
 

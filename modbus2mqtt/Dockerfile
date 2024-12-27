@@ -11,7 +11,7 @@ FROM $BUILD_FROM
 WORKDIR /usr/app
 RUN apk add --update --no-cache git py3-psutil \   
     openssh-client \
-    patch 
+    nodejs npm
 COPY rootfs.tar .
 RUN cd / && tar xf /usr/app/rootfs.tar
 RUN echo '{}' >package.json && \

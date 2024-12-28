@@ -10,13 +10,11 @@ ARG BUILD_VERSION
 FROM $BUILD_FROM
 WORKDIR /usr/app
 RUN apk add --update --no-cache git py3-psutil \   
-    openssh-client \
-    nodejs npm
+    openssh-client 
 COPY rootfs.tar .
 RUN cd / && tar xf /usr/app/rootfs.tar
 RUN echo '{}' >package.json && \
-    npm install -g npm 
-RUN npm install --omit-dev @modbus2mqtt/server@${BUILD_VERSION} 
+    npm install --omit-dev @modbus2mqtt/server@${BUILD_VERSION} 
 
 # @serialport/bindings-cpp might need recompilation. 
 # Otherwise one could use npx @modbus2mqtt/server directly

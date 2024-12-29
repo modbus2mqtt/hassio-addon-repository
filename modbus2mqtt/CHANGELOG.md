@@ -1,5 +1,22 @@
 # Changelog
 
+## [v0.16.19](https://github.com/modbus2mqtt/server/tree/v0.16.19) (2024-12-29)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.18...v0.16.19)
+
+**Implemented enhancements:**
+
+- standalone Docker Version [\#25](https://github.com/modbus2mqtt/server/issues/25)
+
+**Closed issues:**
+
+- Update Modbus \<=\> MQTT from 0.16.16 to version 0.16.17 fails [\#71](https://github.com/modbus2mqtt/server/issues/71)
+- Addon cannot start after github token expiration [\#68](https://github.com/modbus2mqtt/server/issues/68)
+
+**Merged pull requests:**
+
+- v0.16.19: Fix poll issue [\#73](https://github.com/modbus2mqtt/server/pull/73) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.18](https://github.com/modbus2mqtt/server/tree/v0.16.18) (2024-12-28)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.17...v0.16.18)

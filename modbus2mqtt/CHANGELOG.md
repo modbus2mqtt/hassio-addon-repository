@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.16.20](https://github.com/modbus2mqtt/server/tree/v0.16.20) (2024-12-30)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.19...v0.16.20)
+
+**Merged pull requests:**
+
+- v0.16.20 [\#74](https://github.com/modbus2mqtt/server/pull/74) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.19](https://github.com/modbus2mqtt/server/tree/v0.16.19) (2024-12-29)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.18...v0.16.19)
@@ -271,7 +279,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
 
 
 

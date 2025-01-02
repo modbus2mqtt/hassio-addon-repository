@@ -1,5 +1,21 @@
 # Changelog
 
+## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.22...HEAD)
+
+**Closed issues:**
+
+- Unable to read uint23 [\#70](https://github.com/modbus2mqtt/server/issues/70)
+
+## [v0.16.22](https://github.com/modbus2mqtt/server/tree/v0.16.22) (2025-01-02)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.21...v0.16.22)
+
+**Merged pull requests:**
+
+- v0.16.21 Add int32 and unsigned int 32 [\#76](https://github.com/modbus2mqtt/server/pull/76) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.21](https://github.com/modbus2mqtt/server/tree/v0.16.21) (2024-12-31)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.20...v0.16.21)

@@ -1,12 +1,18 @@
 # Changelog
 
-## [v0.16.22](https://github.com/modbus2mqtt/server/tree/v0.16.22) (2025-01-02)
+## [v0.16.23](https://github.com/modbus2mqtt/server/tree/v0.16.23) (2025-01-02)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.22...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.22...v0.16.23)
 
 **Closed issues:**
 
 - Unable to read uint23 [\#70](https://github.com/modbus2mqtt/server/issues/70)
+
+**Merged pull requests:**
+
+- MQTT: Fix sending ModbusValues parsing errors [\#77](https://github.com/modbus2mqtt/server/pull/77) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [v0.16.22](https://github.com/modbus2mqtt/server/tree/v0.16.22) (2025-01-02)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.21...v0.16.22)
 

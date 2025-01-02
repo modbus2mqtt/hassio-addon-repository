@@ -1,14 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+## [v0.16.22](https://github.com/modbus2mqtt/server/tree/v0.16.22) (2025-01-02)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.22...HEAD)
 
 **Closed issues:**
 
 - Unable to read uint23 [\#70](https://github.com/modbus2mqtt/server/issues/70)
-
-## [v0.16.22](https://github.com/modbus2mqtt/server/tree/v0.16.22) (2025-01-02)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.21...v0.16.22)
 

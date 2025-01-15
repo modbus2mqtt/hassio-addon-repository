@@ -1,5 +1,21 @@
 # Changelog
 
+## [v0.16.24](https://github.com/modbus2mqtt/server/tree/v0.16.24) (2025-01-15)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.23...v0.16.24)
+
+**Closed issues:**
+
+- HA discovery messages are published without retain flag [\#82](https://github.com/modbus2mqtt/server/issues/82)
+- Number precision missing in HA [\#81](https://github.com/modbus2mqtt/server/issues/81)
+- \[BUG\] changing UOM doesn't work via GUI [\#80](https://github.com/modbus2mqtt/server/issues/80)
+- \[BUG\] Variable Properties -\> Unit of Measurement -\> Referenced Entity not selectable [\#79](https://github.com/modbus2mqtt/server/issues/79)
+
+**Merged pull requests:**
+
+- v0.16.24: Fix package.json [\#84](https://github.com/modbus2mqtt/server/pull/84) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fixes [\#83](https://github.com/modbus2mqtt/server/pull/83) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.16.23](https://github.com/modbus2mqtt/server/tree/v0.16.23) (2025-01-02)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.22...v0.16.23)

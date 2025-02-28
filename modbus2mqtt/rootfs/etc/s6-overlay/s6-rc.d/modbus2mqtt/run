@@ -1,0 +1,5 @@
+#!/command/with-contenv bashio
+set +e
+cd /usr/app
+export HASSIO_TOKEN
+npx modbus2mqtt --yaml /data --ssl /ssl

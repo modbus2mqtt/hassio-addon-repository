@@ -11,8 +11,7 @@ FROM $BUILD_FROM
 WORKDIR /usr/app
 RUN apk add --update --no-cache git py3-psutil \   
     openssh-client 
-COPY rootfs.tar .
-RUN cd / && tar xf /usr/app/rootfs.tar
+COPY rootfs/ /
 RUN echo '{}' >package.json && \
     npm install --omit-dev @modbus2mqtt/server@${BUILD_VERSION} 
 

@@ -1,5 +1,19 @@
 # Changelog
 
+## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.25...HEAD)
+
+**Merged pull requests:**
+
+- rename backendTCP Test because it's failing [\#97](https://github.com/modbus2mqtt/server/pull/97) ([volkmarnissen](https://github.com/volkmarnissen))
+- rename backendTCP Test because it's failing [\#96](https://github.com/modbus2mqtt/server/pull/96) ([volkmarnissen](https://github.com/volkmarnissen))
+- Modbus2mqtt [\#95](https://github.com/modbus2mqtt/server/pull/95) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix BackendTCP [\#94](https://github.com/modbus2mqtt/server/pull/94) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix BackendTCP [\#93](https://github.com/modbus2mqtt/server/pull/93) ([volkmarnissen](https://github.com/volkmarnissen))
+- Added status page for modbus errors per slave, cypress tests [\#92](https://github.com/modbus2mqtt/server/pull/92) ([volkmarnissen](https://github.com/volkmarnissen))
+- Adding discrete inputs, rewriten logic for writing registers [\#88](https://github.com/modbus2mqtt/server/pull/88) ([arturmietek](https://github.com/arturmietek))
+
 ## [v0.16.25](https://github.com/modbus2mqtt/server/tree/v0.16.25) (2025-01-16)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.24...v0.16.25)

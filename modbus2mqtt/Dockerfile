@@ -23,7 +23,13 @@ RUN apk --print-arch && \
     apk update && \
     apk upgrade && \
     apk add  --update --no-cache && \
+    echo "Start installing build components" \
     apk add g++ make build-base linux-headers udev  && \
+    fi
+RUN apk --print-arch && \
+    alpineArch="$(apk --print-arch)" && \
+    if [ "x86_64" != "${alpineArch}"  ] ; then \
+    echo "Start rebuild components" \
     npm rebuild @serialport/bindings-cpp --build-from-source; \
     fi
 # Health check

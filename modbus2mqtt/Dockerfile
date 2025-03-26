@@ -11,9 +11,10 @@ FROM $BUILD_FROM
 WORKDIR /usr/app
 RUN apk add --update --no-cache git py3-psutil \   
     openssh-client 
-COPY rootfs/ /
-RUN echo '{}' >package.json && \
-    npm install --omit-dev @modbus2mqtt/server@${BUILD_VERSION} 
+COPY rootfs.tar .
+RUN cp -R rootfs.tar /
+RUN npm init && \
+    npm install https://github.com/modbus2mqtt/server
 
 # @serialport/bindings-cpp might need recompilation. 
 # Otherwise one could use npx @modbus2mqtt/server directly
@@ -23,21 +24,12 @@ RUN apk --print-arch && \
     apk update && \
     apk upgrade && \
     apk add  --update --no-cache && \
-    echo "Start installing build components" && \
     apk add g++ make build-base linux-headers udev  && \
-    fi
-RUN apk --print-arch && \
-    alpineArch="$(apk --print-arch)" && \
-    if [ "x86_64" != "${alpineArch}"  ] ; then \
-    echo "Start rebuild components" && \
     npm rebuild @serialport/bindings-cpp --build-from-source; \
     fi
 # Health check
 HEALTHCHECK --start-period=10m \
     CMD curl --fail http://127.0.0.1:3000 || exit 1
-
-
-
 # Labels
 LABEL \
     io.hass.name="${BUILD_NAME}" \
@@ -59,3 +51,4 @@ LABEL \
     org.opencontainers.image.created=${BUILD_DATE} \
     org.opencontainers.image.revision=${BUILD_REF} \
     org.opencontainers.image.version=${BUILD_VERSION} 
+

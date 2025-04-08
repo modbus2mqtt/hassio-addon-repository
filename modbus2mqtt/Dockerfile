@@ -12,7 +12,7 @@ WORKDIR /usr/app
 RUN apk add --update --no-cache git py3-psutil \   
     openssh-client npm
 COPY rootfs ./rootfs
-RUN cp -R ./rootfs /
+RUN cp -R ./rootfs/* /
 RUN npm init -y && \
     npm install github:modbus2mqtt/server#v0.16.25
 

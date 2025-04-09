@@ -13,8 +13,8 @@ RUN apk add --update --no-cache git py3-psutil \
     openssh-client npm
 COPY rootfs ./rootfs
 RUN cp -R ./rootfs/* /
-RUN npm init -y && \
-    npm install github:modbus2mqtt/server
+#RUN npm init -y && \
+#    npm install github:modbus2mqtt/server
 
 # @serialport/bindings-cpp might need recompilation. 
 # Otherwise one could use npx @modbus2mqtt/server directly

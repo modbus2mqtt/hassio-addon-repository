@@ -25,6 +25,7 @@ RUN apk --print-arch && \
     apk upgrade && \
     apk add  --update --no-cache && \
     apk add g++ make build-base linux-headers udev  && \
+    npm install --save-dev node-gyp-build && \
     npm rebuild @serialport/bindings-cpp --build-from-source; \
     fi
 # Health check

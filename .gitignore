@@ -1,1 +1,1 @@
-modbus2mqtt/rootfs.tar
+modbus2mqtt*/rootfs/usr/app/**/* 

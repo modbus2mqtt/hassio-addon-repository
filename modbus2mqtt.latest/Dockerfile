@@ -1,4 +1,4 @@
-ARG BUILD_FROM=ghcr.io/hassio-addons/base:17.2.1
+ARG BUILD_FROM=ghcr.io/hassio-addons/base:17.2.4
 # Build arguments
 ARG BUILD_ARCH
 ARG BUILD_DATE

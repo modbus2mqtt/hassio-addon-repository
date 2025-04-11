@@ -1,4 +1,4 @@
-ARG BUILD_FROM
+ARG BUILD_FROM=ghcr.io/hassio-addons/base:17.2.4
 # Build arguments
 ARG BUILD_ARCH
 ARG BUILD_DATE
@@ -14,7 +14,7 @@ RUN apk add --update --no-cache git py3-psutil \
 COPY rootfs ./rootfs
 RUN cp -R ./rootfs/* /
 #RUN npm init -y && \
-#    npm install github:modbus2mqtt/server#v0.16.25
+#    npm install github:modbus2mqtt/server
 
 # @serialport/bindings-cpp might need recompilation. 
 # Otherwise one could use npx @modbus2mqtt/server directly

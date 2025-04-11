@@ -1,12 +1,21 @@
-# Changelog
+# Changelog for server
 
 ## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.25...HEAD)
 
+**Closed issues:**
+
+- Add-on "removed from repository" notification [\#100](https://github.com/modbus2mqtt/server/issues/100)
+
 **Merged pull requests:**
 
+- introduce junit reports for test output [\#104](https://github.com/modbus2mqtt/server/pull/104) ([volkmarnissen](https://github.com/volkmarnissen))
+- Disable failing test [\#103](https://github.com/modbus2mqtt/server/pull/103) ([volkmarnissen](https://github.com/volkmarnissen))
+- Jest coverage report and markdown preparation [\#102](https://github.com/modbus2mqtt/server/pull/102) ([volkmarnissen](https://github.com/volkmarnissen))
+- Add ModbusCache draft. Not productive [\#101](https://github.com/modbus2mqtt/server/pull/101) ([volkmarnissen](https://github.com/volkmarnissen))
 - Update introduction.md [\#99](https://github.com/modbus2mqtt/server/pull/99) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- Adding test to check if specifications with discrete inputs and coils… [\#98](https://github.com/modbus2mqtt/server/pull/98) ([arturmietek](https://github.com/arturmietek))
 - rename backendTCP Test because it's failing [\#97](https://github.com/modbus2mqtt/server/pull/97) ([volkmarnissen](https://github.com/volkmarnissen))
 - rename backendTCP Test because it's failing [\#96](https://github.com/modbus2mqtt/server/pull/96) ([volkmarnissen](https://github.com/volkmarnissen))
 - Modbus2mqtt [\#95](https://github.com/modbus2mqtt/server/pull/95) ([volkmarnissen](https://github.com/volkmarnissen))

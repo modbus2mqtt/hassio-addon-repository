@@ -1,0 +1,48 @@
+{
+	"folders": [
+		{
+			"name": "modbus2mqtt.dev",
+			"path": "."
+		},
+		{
+			"name": "specification",
+			"path": "specification"
+		},
+		{
+			"name": "angular",
+			"path": "angular"
+		},
+		{
+			"name": "server",
+			"path": "server"
+		},
+		{
+			"name": "server.shared",
+			"path": "server.shared"
+		},
+		{
+			"name": "specification.shared",
+			"path": "specification.shared"
+		},
+		{
+			"name": "test1",
+			"path": "test1"
+		},
+		{
+			"name": "test2",
+			"path": "test2"
+		},
+		{
+			"name": "KC868A16 Pulsecounter",
+			"path": "../platformio/kc868pulsecounter/KC868A16 Pulsecounter"
+		},
+		{
+			"path": "hassio-addon-repository"
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"m2m", "specification.shared", "server.shared", "angular", "hassio-addon-repository"
+		]
+	}
+}

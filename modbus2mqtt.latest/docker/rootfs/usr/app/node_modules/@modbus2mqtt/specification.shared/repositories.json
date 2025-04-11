@@ -1,0 +1,21 @@
+{
+  "owner": "modbus2mqtt",
+  "mainproject":"server",
+  "repositories": [
+    {
+      "name" : "specification.shared"
+    },
+    {
+      "name" : "specification"
+    },
+    {
+        "name" : "server.shared"
+    },
+    {
+        "name" : "angular"
+    },
+    {
+        "name" : "server"
+    }
+]
+}

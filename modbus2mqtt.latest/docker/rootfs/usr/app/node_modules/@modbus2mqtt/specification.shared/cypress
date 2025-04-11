@@ -1,0 +1,7 @@
+#!/bin/sh
+docker container run -it \
+  -v $PWD:/e2e \
+  -w /e2e \
+  -e DISPLAY \
+  --entrypoint sh \
+  cypress/included:13.15.2 

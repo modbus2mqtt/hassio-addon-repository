@@ -1,0 +1,10 @@
+{
+  "data":{
+    "slug": "slugtest",
+    "ingress": true,
+    "ingress_entry": "ingress",
+    "ingress_panel" : true,
+    "ingress_port": 1234,
+    "ingress_url": "ingress"
+  }
+}

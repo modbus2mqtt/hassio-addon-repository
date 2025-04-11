@@ -1,0 +1,13 @@
+#!/bin/sh
+set +e
+if [ -d /etc/nginx ]
+then
+   echo "nginx is already installed" >&2
+else
+   sudo apt-get install -y nginx 
+fi
+sudo apt-get -y install mosquitto mosquitto-clients 
+echo "mosquitto installed" >&2
+# sudo rm -rf /etc/nginx/sites-enabled/default
+# sudo chmod 777 /var/lib/nginx
+set -e

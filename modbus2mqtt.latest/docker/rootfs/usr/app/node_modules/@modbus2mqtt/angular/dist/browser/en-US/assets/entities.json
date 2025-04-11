@@ -1,0 +1,30 @@
+[
+  {
+    "modbusAddress": 0,
+    "modbusLength": 1,
+    "name": "waterlevel",
+    "converter": "int",
+    "discoverData": "tbd\r\ntbd\r\ntbd\r\n"
+  },
+  {
+    "modbusAddress": 0,
+    "modbusLength": 1,
+    "name": "waterlevel",
+    "converter": "int",
+    "discoverData": "tbd\r\ntbd\r\ntbd\r\n"
+  },
+  {
+    "modbusAddress": 0,
+    "modbusLength": 1,
+    "name": "waterlevel",
+    "converter": "int",
+    "discoverData": "tbd\r\ntbd\r\ntbd\r\n"
+  },
+  {
+    "modbusAddress": 1,
+    "modbusLength": 1,
+    "name": "waterlevel1",
+    "converter": "int",
+    "discoverData": "tbd\r\ntbd\r\ntbd\r\n"
+  }
+]

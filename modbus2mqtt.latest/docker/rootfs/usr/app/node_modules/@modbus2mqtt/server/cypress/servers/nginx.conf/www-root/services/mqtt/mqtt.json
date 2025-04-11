@@ -1,8 +1,0 @@
-{
-  "data":{
-      "host" : "localhost",
-      "port" : 3001,
-      "username" : "homeassistant",
-      "password" : "homeassistant"
-  }
-}

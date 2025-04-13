@@ -7,7 +7,6 @@ webui: http://[HOST]:[PORT:3000]
 panel_icon: mdi:arrow-left-right-bold-outline
 slug: modbus2mqtt
 arch:
-  - armv7
   - aarch64
   - amd64
 services:

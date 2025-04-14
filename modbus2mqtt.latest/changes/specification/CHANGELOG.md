@@ -1,4 +1,4 @@
-# Changelog
+# Changelog for specification
 
 ## [Unreleased](https://github.com/modbus2mqtt/specification/tree/HEAD)
 

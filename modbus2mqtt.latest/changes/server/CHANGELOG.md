@@ -1,8 +1,8 @@
 # Changelog for server
 
-## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+## [v0.16.26](https://github.com/modbus2mqtt/server/tree/v0.16.26) (2025-04-14)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.25...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.25...v0.16.26)
 
 **Closed issues:**
 
@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Modbuscache [\#105](https://github.com/modbus2mqtt/server/pull/105) ([volkmarnissen](https://github.com/volkmarnissen))
 - introduce junit reports for test output [\#104](https://github.com/modbus2mqtt/server/pull/104) ([volkmarnissen](https://github.com/volkmarnissen))
 - Disable failing test [\#103](https://github.com/modbus2mqtt/server/pull/103) ([volkmarnissen](https://github.com/volkmarnissen))
 - Jest coverage report and markdown preparation [\#102](https://github.com/modbus2mqtt/server/pull/102) ([volkmarnissen](https://github.com/volkmarnissen))

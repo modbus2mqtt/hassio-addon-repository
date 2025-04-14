@@ -1,68 +1,68 @@
-# Changelog
+# Changelog for server.shared
 
-## [v0.13.14](https://github.com/modbus2mqtt/server.shared/tree/v0.13.14) (2025-01-28)
+## [v0.13.14](https://github.com/volkmarnissen/server.shared/tree/v0.13.14) (2025-01-28)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.12...v0.13.14)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.12...v0.13.14)
 
-## [v0.13.12](https://github.com/modbus2mqtt/server.shared/tree/v0.13.12) (2024-12-31)
+## [v0.13.12](https://github.com/volkmarnissen/server.shared/tree/v0.13.12) (2024-12-31)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.11...v0.13.12)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.11...v0.13.12)
 
-## [v0.13.11](https://github.com/modbus2mqtt/server.shared/tree/v0.13.11) (2024-12-30)
+## [v0.13.11](https://github.com/volkmarnissen/server.shared/tree/v0.13.11) (2024-12-30)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.10...v0.13.11)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.10...v0.13.11)
 
-## [v0.13.10](https://github.com/modbus2mqtt/server.shared/tree/v0.13.10) (2024-12-22)
+## [v0.13.10](https://github.com/volkmarnissen/server.shared/tree/v0.13.10) (2024-12-22)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.9...v0.13.10)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.9...v0.13.10)
 
-## [v0.13.9](https://github.com/modbus2mqtt/server.shared/tree/v0.13.9) (2024-12-13)
+## [v0.13.9](https://github.com/volkmarnissen/server.shared/tree/v0.13.9) (2024-12-13)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.10.8...v0.13.9)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.10.8...v0.13.9)
 
-## [v0.10.8](https://github.com/modbus2mqtt/server.shared/tree/v0.10.8) (2024-12-11)
+## [v0.10.8](https://github.com/volkmarnissen/server.shared/tree/v0.10.8) (2024-12-11)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.8...v0.10.8)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.8...v0.10.8)
 
-## [v0.13.8](https://github.com/modbus2mqtt/server.shared/tree/v0.13.8) (2024-12-11)
+## [v0.13.8](https://github.com/volkmarnissen/server.shared/tree/v0.13.8) (2024-12-11)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.7...v0.13.8)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.7...v0.13.8)
 
-## [v0.13.7](https://github.com/modbus2mqtt/server.shared/tree/v0.13.7) (2024-11-14)
+## [v0.13.7](https://github.com/volkmarnissen/server.shared/tree/v0.13.7) (2024-11-14)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.6...v0.13.7)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.6...v0.13.7)
 
-## [v0.13.6](https://github.com/modbus2mqtt/server.shared/tree/v0.13.6) (2024-10-22)
+## [v0.13.6](https://github.com/volkmarnissen/server.shared/tree/v0.13.6) (2024-10-22)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.5...v0.13.6)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.5...v0.13.6)
 
-## [v0.13.5](https://github.com/modbus2mqtt/server.shared/tree/v0.13.5) (2024-10-16)
+## [v0.13.5](https://github.com/volkmarnissen/server.shared/tree/v0.13.5) (2024-10-16)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.4...v0.13.5)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.4...v0.13.5)
 
-## [v0.13.4](https://github.com/modbus2mqtt/server.shared/tree/v0.13.4) (2024-10-14)
+## [v0.13.4](https://github.com/volkmarnissen/server.shared/tree/v0.13.4) (2024-10-14)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.3...v0.13.4)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.3...v0.13.4)
 
-## [v0.13.3](https://github.com/modbus2mqtt/server.shared/tree/v0.13.3) (2024-10-08)
+## [v0.13.3](https://github.com/volkmarnissen/server.shared/tree/v0.13.3) (2024-10-08)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.1...v0.13.3)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.1...v0.13.3)
 
-## [v0.13.1](https://github.com/modbus2mqtt/server.shared/tree/v0.13.1) (2024-09-16)
+## [v0.13.1](https://github.com/volkmarnissen/server.shared/tree/v0.13.1) (2024-09-16)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.0...v0.13.1)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.13.0...v0.13.1)
 
-## [v0.13.0](https://github.com/modbus2mqtt/server.shared/tree/v0.13.0) (2024-08-16)
+## [v0.13.0](https://github.com/volkmarnissen/server.shared/tree/v0.13.0) (2024-08-16)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.12.0...v0.13.0)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.12.0...v0.13.0)
 
-## [v0.12.0](https://github.com/modbus2mqtt/server.shared/tree/v0.12.0) (2024-08-05)
+## [v0.12.0](https://github.com/volkmarnissen/server.shared/tree/v0.12.0) (2024-08-05)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.11.0...v0.12.0)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/v0.11.0...v0.12.0)
 
-## [v0.11.0](https://github.com/modbus2mqtt/server.shared/tree/v0.11.0) (2024-08-04)
+## [v0.11.0](https://github.com/volkmarnissen/server.shared/tree/v0.11.0) (2024-08-04)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/2c1cc3775e8a5139ccc3c99852a71f5d7e7046b3...v0.11.0)
+[Full Changelog](https://github.com/volkmarnissen/server.shared/compare/2c1cc3775e8a5139ccc3c99852a71f5d7e7046b3...v0.11.0)
 
 
 

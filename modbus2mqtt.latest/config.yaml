@@ -23,6 +23,6 @@ ingress: true
 ingress_port: 3000
 ingress_stream: true
 ports:
-  null: 9229
+  9229/tcp: null
 ports_description:
-  9229: Debug port
+  9229/tcp: Map node debug port

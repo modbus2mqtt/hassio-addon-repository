@@ -23,4 +23,6 @@ ingress: true
 ingress_port: 3000
 ingress_stream: true
 ports:
-  3000/tcp: 3000
+  null: 9229
+ports_description:
+  9229: Debug port

@@ -1,7 +1,6 @@
-name: "Modbus <=> MQTT latest"
-description: "Service converts RTU and TCP Modbus to MQTT"
-version: 0.16.26-srv105
-image: ghcr.io/modbus2mqtt/modbus2mqtt.latest
+name: "Modbus <=> MQTT"
+description: "Service converts RTU and TCP Modbus to MQTT from other 21"
+version: 0.16.26-srv106
 url: https://github.com/modbus2mqtt/server/blob/main/introduction.md
 webui: http://[HOST]:[PORT:3000]
 panel_icon: mdi:arrow-left-right-bold-outline

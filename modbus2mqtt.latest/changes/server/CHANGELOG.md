@@ -2,7 +2,25 @@
 
 ## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.25...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.26...HEAD)
+
+**Implemented enhancements:**
+
+- \[BUG\] TCP-Connection not kept alive [\#32](https://github.com/modbus2mqtt/server/issues/32)
+
+**Closed issues:**
+
+- Timeout after docker restart [\#107](https://github.com/modbus2mqtt/server/issues/107)
+- \[BUG\] no latest-tag on docker image [\#86](https://github.com/modbus2mqtt/server/issues/86)
+
+**Merged pull requests:**
+
+- Fix Modbuscache, Add caching for modbusRTU [\#108](https://github.com/modbus2mqtt/server/pull/108) ([volkmarnissen](https://github.com/volkmarnissen))
+- Modbuscache [\#106](https://github.com/modbus2mqtt/server/pull/106) ([modbus2mqtt](https://github.com/modbus2mqtt))
+
+## [v0.16.26](https://github.com/modbus2mqtt/server/tree/v0.16.26) (2025-04-14)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.25...v0.16.26)
 
 **Closed issues:**
 
@@ -10,6 +28,7 @@
 
 **Merged pull requests:**
 
+- Modbuscache [\#105](https://github.com/modbus2mqtt/server/pull/105) ([volkmarnissen](https://github.com/volkmarnissen))
 - introduce junit reports for test output [\#104](https://github.com/modbus2mqtt/server/pull/104) ([volkmarnissen](https://github.com/volkmarnissen))
 - Disable failing test [\#103](https://github.com/modbus2mqtt/server/pull/103) ([volkmarnissen](https://github.com/volkmarnissen))
 - Jest coverage report and markdown preparation [\#102](https://github.com/modbus2mqtt/server/pull/102) ([volkmarnissen](https://github.com/volkmarnissen))
@@ -355,7 +374,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
 
 
 

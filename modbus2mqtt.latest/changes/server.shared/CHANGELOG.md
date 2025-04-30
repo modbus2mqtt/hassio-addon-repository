@@ -1,4 +1,16 @@
-# Changelog
+# Changelog for server.shared
+
+## [Unreleased](https://github.com/modbus2mqtt/server.shared/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.15...HEAD)
+
+**Merged pull requests:**
+
+- Modbus Error Handling and Monitoring [\#1](https://github.com/modbus2mqtt/server.shared/pull/1) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [v0.13.15](https://github.com/modbus2mqtt/server.shared/tree/v0.13.15) (2025-04-14)
+
+[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.14...v0.13.15)
 
 ## [v0.13.14](https://github.com/modbus2mqtt/server.shared/tree/v0.13.14) (2025-01-28)
 

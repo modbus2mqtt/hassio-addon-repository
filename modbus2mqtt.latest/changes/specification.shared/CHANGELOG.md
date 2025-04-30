@@ -1,5 +1,13 @@
 # Changelog for specification.shared
 
+## [Unreleased](https://github.com/modbus2mqtt/specification.shared/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.11...HEAD)
+
+**Merged pull requests:**
+
+- Modbus Error Handling and Monitoring [\#3](https://github.com/modbus2mqtt/specification.shared/pull/3) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.10.11](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.11) (2025-04-14)
 
 [Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.10...v0.10.11)

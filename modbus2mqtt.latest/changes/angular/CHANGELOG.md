@@ -1,8 +1,16 @@
-# Changelog
+# Changelog for angular
 
 ## [Unreleased](https://github.com/modbus2mqtt/angular/tree/HEAD)
 
-[Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.19...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.20...HEAD)
+
+**Merged pull requests:**
+
+- Modbus Error Handling and Monitoring [\#5](https://github.com/modbus2mqtt/angular/pull/5) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [v0.12.20](https://github.com/modbus2mqtt/angular/tree/v0.12.20) (2025-04-14)
+
+[Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.19...v0.12.20)
 
 **Merged pull requests:**
 

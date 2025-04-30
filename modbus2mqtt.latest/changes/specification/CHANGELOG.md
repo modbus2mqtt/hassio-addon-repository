@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Modbus Error Handling and Monitoring [\#5](https://github.com/modbus2mqtt/specification/pull/5) ([volkmarnissen](https://github.com/volkmarnissen))
 - Fix Modbuscache, Add caching for modbusRTU [\#4](https://github.com/modbus2mqtt/specification/pull/4) ([volkmarnissen](https://github.com/volkmarnissen))
 
 ## [v0.15.29](https://github.com/modbus2mqtt/specification/tree/v0.15.29) (2025-04-14)

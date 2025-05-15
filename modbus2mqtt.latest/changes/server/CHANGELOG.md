@@ -11,10 +11,14 @@
 **Closed issues:**
 
 - Timeout after docker restart [\#107](https://github.com/modbus2mqtt/server/issues/107)
+- Error on starting the add-on [\#89](https://github.com/modbus2mqtt/server/issues/89)
+- \[BUG\] Variable Properties -\> Unit of Measurement -\> Referenced Entity not selectable [\#87](https://github.com/modbus2mqtt/server/issues/87)
 - \[BUG\] no latest-tag on docker image [\#86](https://github.com/modbus2mqtt/server/issues/86)
 
 **Merged pull requests:**
 
+- \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#114](https://github.com/modbus2mqtt/server/pull/114) ([volkmarnissen](https://github.com/volkmarnissen))
+- No Internet access, Poll [\#113](https://github.com/modbus2mqtt/server/pull/113) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#112](https://github.com/modbus2mqtt/server/pull/112) ([volkmarnissen](https://github.com/volkmarnissen))
 - Modbus Error Handling and Monitoring/tree/modbuscache [\#110](https://github.com/modbus2mqtt/server/pull/110) ([volkmarnissen](https://github.com/volkmarnissen))
 - Fix Modbuscache, Add caching for modbusRTU [\#108](https://github.com/modbus2mqtt/server/pull/108) ([volkmarnissen](https://github.com/volkmarnissen))
@@ -376,7 +380,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
 
 
 

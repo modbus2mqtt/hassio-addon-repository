@@ -17,6 +17,7 @@
 
 **Merged pull requests:**
 
+- Trigger new build to add tcp bridge port to hassio [\#116](https://github.com/modbus2mqtt/server/pull/116) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#115](https://github.com/modbus2mqtt/server/pull/115) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#114](https://github.com/modbus2mqtt/server/pull/114) ([volkmarnissen](https://github.com/volkmarnissen))
 - No Internet access, Poll [\#113](https://github.com/modbus2mqtt/server/pull/113) ([volkmarnissen](https://github.com/volkmarnissen))

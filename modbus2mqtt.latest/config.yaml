@@ -23,8 +23,8 @@ ingress: true
 ingress_port: 3000
 ingress_stream: true
 ports:
-  9229/tcp: null
   502/tcp: null
+  9229/tcp: null
 ports_description:
-  9229/tcp: Map node debug port
   502/tcp: TCP Bridge port
+  9229/tcp: Map node debug port

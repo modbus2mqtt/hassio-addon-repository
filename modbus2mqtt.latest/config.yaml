@@ -1,5 +1,5 @@
 name: "Modbus <=> MQTT"
-description: "Service converts RTU and TCP Modbus to MQTT from other 21"
+description: "Service converts RTU and TCP Modbus to MQTT from other 22"
 version: 0.16.26-srv115
 image: ghcr.io/modbus2mqtt/modbus2mqtt.latest
 url: https://github.com/modbus2mqtt/server/blob/main/introduction.md

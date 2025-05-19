@@ -27,4 +27,4 @@ ports:
   502/tcp: null
 ports_description:
   9229/tcp: Map node debug port
-  502:/tcp: TCP Bridge port
+  502/tcp: TCP Bridge port

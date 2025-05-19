@@ -22,3 +22,6 @@ init: false
 ingress: true
 ingress_port: 3000
 ingress_stream: true
+ports:
+  3000/tcp: 3000
+  502/tcp: null

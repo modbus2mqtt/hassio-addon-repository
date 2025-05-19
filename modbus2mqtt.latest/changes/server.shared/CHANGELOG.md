@@ -6,6 +6,8 @@
 
 **Merged pull requests:**
 
+- Add package.json github dependency again [\#4](https://github.com/modbus2mqtt/server.shared/pull/4) ([volkmarnissen](https://github.com/volkmarnissen))
+- \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#3](https://github.com/modbus2mqtt/server.shared/pull/3) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#2](https://github.com/modbus2mqtt/server.shared/pull/2) ([volkmarnissen](https://github.com/volkmarnissen))
 - Modbus Error Handling and Monitoring [\#1](https://github.com/modbus2mqtt/server.shared/pull/1) ([volkmarnissen](https://github.com/volkmarnissen))
 

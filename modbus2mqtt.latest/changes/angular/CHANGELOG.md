@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Update Changelog [\#10](https://github.com/modbus2mqtt/angular/pull/10) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#9](https://github.com/modbus2mqtt/angular/pull/9) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#8](https://github.com/modbus2mqtt/angular/pull/8) ([volkmarnissen](https://github.com/volkmarnissen))
 - Angular TcpBridge Fix [\#7](https://github.com/modbus2mqtt/angular/pull/7) ([volkmarnissen](https://github.com/volkmarnissen))

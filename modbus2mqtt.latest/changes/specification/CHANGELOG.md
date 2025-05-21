@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- \[Feature\] Add number of processed calls to Modbus Status [\#11](https://github.com/modbus2mqtt/specification/pull/11) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[Feature\] Add number of processed calls to Modbus Status [\#10](https://github.com/modbus2mqtt/specification/pull/10) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#9](https://github.com/modbus2mqtt/specification/pull/9) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#8](https://github.com/modbus2mqtt/specification/pull/8) ([volkmarnissen](https://github.com/volkmarnissen))

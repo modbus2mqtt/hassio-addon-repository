@@ -17,6 +17,7 @@
 
 **Merged pull requests:**
 
+- \[Feature\] Add number of processed calls to Modbus Status [\#119](https://github.com/modbus2mqtt/server/pull/119) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[Feature\] Add number of processed calls to Modbus Status [\#118](https://github.com/modbus2mqtt/server/pull/118) ([volkmarnissen](https://github.com/volkmarnissen))
 - Add debug message queue length [\#117](https://github.com/modbus2mqtt/server/pull/117) ([volkmarnissen](https://github.com/volkmarnissen))
 - Trigger new build to add tcp bridge port to hassio [\#116](https://github.com/modbus2mqtt/server/pull/116) ([volkmarnissen](https://github.com/volkmarnissen))

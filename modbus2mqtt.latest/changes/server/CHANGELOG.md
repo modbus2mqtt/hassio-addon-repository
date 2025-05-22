@@ -17,6 +17,7 @@
 
 **Merged pull requests:**
 
+- Modbus RTU Bridge: One configured RTU \(Mod\)bus can be used as Modbus TCP slave [\#120](https://github.com/modbus2mqtt/server/pull/120) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[Feature\] Add number of processed calls to Modbus Status [\#119](https://github.com/modbus2mqtt/server/pull/119) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[Feature\] Add number of processed calls to Modbus Status [\#118](https://github.com/modbus2mqtt/server/pull/118) ([volkmarnissen](https://github.com/volkmarnissen))
 - Add debug message queue length [\#117](https://github.com/modbus2mqtt/server/pull/117) ([volkmarnissen](https://github.com/volkmarnissen))
@@ -385,7 +386,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
 
 
 

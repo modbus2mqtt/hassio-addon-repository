@@ -1,8 +1,24 @@
 # Changelog for specification.shared
 
-## [Unreleased](https://github.com/modbus2mqtt/specification.shared/tree/HEAD)
+## [v0.10.16](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.16) (2025-09-02)
 
-[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.11...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.15...v0.10.16)
+
+## [v0.10.15](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.15) (2025-09-02)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.14...v0.10.15)
+
+## [v0.10.14](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.14) (2025-09-02)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.13...v0.10.14)
+
+## [v0.10.13](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.13) (2025-09-02)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.12...v0.10.13)
+
+## [v0.10.12](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.12) (2025-09-02)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.11...v0.10.12)
 
 **Merged pull requests:**
 

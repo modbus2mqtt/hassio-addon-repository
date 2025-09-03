@@ -1,8 +1,12 @@
 # Changelog for server.shared
 
-## [Unreleased](https://github.com/modbus2mqtt/server.shared/tree/HEAD)
+## [v0.13.17](https://github.com/modbus2mqtt/server.shared/tree/v0.13.17) (2025-09-03)
 
-[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.15...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.16...v0.13.17)
+
+## [v0.13.16](https://github.com/modbus2mqtt/server.shared/tree/v0.13.16) (2025-09-03)
+
+[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.15...v0.13.16)
 
 **Merged pull requests:**
 

@@ -1,11 +1,24 @@
 # Changelog for specification
 
-## [Unreleased](https://github.com/modbus2mqtt/specification/tree/HEAD)
+## [v0.15.33](https://github.com/modbus2mqtt/specification/tree/v0.15.33) (2025-09-03)
 
-[Full Changelog](https://github.com/modbus2mqtt/specification/compare/v0.15.29...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/specification/compare/v0.15.32...v0.15.33)
+
+## [v0.15.32](https://github.com/modbus2mqtt/specification/tree/v0.15.32) (2025-09-03)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification/compare/v0.15.31...v0.15.32)
+
+## [v0.15.31](https://github.com/modbus2mqtt/specification/tree/v0.15.31) (2025-09-03)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification/compare/v0.15.30...v0.15.31)
+
+## [v0.15.30](https://github.com/modbus2mqtt/specification/tree/v0.15.30) (2025-09-02)
+
+[Full Changelog](https://github.com/modbus2mqtt/specification/compare/v0.15.29...v0.15.30)
 
 **Merged pull requests:**
 
+- Update CHANGELOG.md [\#12](https://github.com/modbus2mqtt/specification/pull/12) ([modbus2mqtt](https://github.com/modbus2mqtt))
 - \[Feature\] Add number of processed calls to Modbus Status [\#11](https://github.com/modbus2mqtt/specification/pull/11) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[Feature\] Add number of processed calls to Modbus Status [\#10](https://github.com/modbus2mqtt/specification/pull/10) ([volkmarnissen](https://github.com/volkmarnissen))
 - \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#9](https://github.com/modbus2mqtt/specification/pull/9) ([volkmarnissen](https://github.com/volkmarnissen))

@@ -1,8 +1,8 @@
 # Changelog for angular
 
-## [Unreleased](https://github.com/modbus2mqtt/angular/tree/HEAD)
+## [v0.12.21](https://github.com/modbus2mqtt/angular/tree/v0.12.21) (2025-09-03)
 
-[Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.20...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.20...v0.12.21)
 
 **Merged pull requests:**
 

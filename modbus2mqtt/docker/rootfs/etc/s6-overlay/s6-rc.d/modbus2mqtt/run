@@ -2,5 +2,10 @@
 set +e
 cd /usr/app
 export HASSIO_TOKEN
-node node_modules/@modbus2mqtt/server/dist/modbus2mqtt.js --yaml /data --ssl /ssl
+inspect=""
+if [ `bashio::addon.network | grep 9229 | wc -l` == 1 ]
+then
+  inspect=--inspect
+fi
+node $inspect node_modules/@modbus2mqtt/server/dist/modbus2mqtt.js --yaml /data --ssl /ssl
  

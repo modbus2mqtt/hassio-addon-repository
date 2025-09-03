@@ -1,6 +1,6 @@
 name: "Modbus <=> MQTT"
-description: "Service converts RTU and TCP Modbus to MQTT"
-version: 0.16.26
+description: "Service converts RTU and TCP Modbus to MQTT from other 22"
+version: 0.16.27
 image: ghcr.io/modbus2mqtt/modbus2mqtt
 url: https://github.com/modbus2mqtt/server/blob/main/introduction.md
 webui: http://[HOST]:[PORT:3000]
@@ -23,5 +23,8 @@ ingress: true
 ingress_port: 3000
 ingress_stream: true
 ports:
-  3000/tcp: 3000
   502/tcp: null
+  9229/tcp: null
+ports_description:
+  502/tcp: TCP Bridge port
+  9229/tcp: Map node debug port

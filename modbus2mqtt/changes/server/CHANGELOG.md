@@ -1,5 +1,39 @@
 # Changelog for server
 
+## [v0.16.27](https://github.com/modbus2mqtt/server/tree/v0.16.27) (2025-09-03)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.26...v0.16.27)
+
+**Implemented enhancements:**
+
+- \[BUG\] TCP-Connection not kept alive [\#32](https://github.com/modbus2mqtt/server/issues/32)
+
+**Closed issues:**
+
+- Run modbus2mqtt as Node application [\#125](https://github.com/modbus2mqtt/server/issues/125)
+- No entity defined for this specification [\#123](https://github.com/modbus2mqtt/server/issues/123)
+- Topic error / Change Topic [\#122](https://github.com/modbus2mqtt/server/issues/122)
+- \[BUG\] Modbus-Connection fails on high input load [\#109](https://github.com/modbus2mqtt/server/issues/109)
+- Timeout after docker restart [\#107](https://github.com/modbus2mqtt/server/issues/107)
+- Error on starting the add-on [\#89](https://github.com/modbus2mqtt/server/issues/89)
+- \[BUG\] Variable Properties -\> Unit of Measurement -\> Referenced Entity not selectable [\#87](https://github.com/modbus2mqtt/server/issues/87)
+- \[BUG\] no latest-tag on docker image [\#86](https://github.com/modbus2mqtt/server/issues/86)
+
+**Merged pull requests:**
+
+- Modbus RTU Bridge: One configured RTU \(Mod\)bus can be used as Modbus TCP slave [\#120](https://github.com/modbus2mqtt/server/pull/120) ([volkmarnissen](https://github.com/volkmarnissen))
+- \[Feature\] Add number of processed calls to Modbus Status [\#119](https://github.com/modbus2mqtt/server/pull/119) ([volkmarnissen](https://github.com/volkmarnissen))
+- \[Feature\] Add number of processed calls to Modbus Status [\#118](https://github.com/modbus2mqtt/server/pull/118) ([volkmarnissen](https://github.com/volkmarnissen))
+- Add debug message queue length [\#117](https://github.com/modbus2mqtt/server/pull/117) ([volkmarnissen](https://github.com/volkmarnissen))
+- Trigger new build to add tcp bridge port to hassio [\#116](https://github.com/modbus2mqtt/server/pull/116) ([volkmarnissen](https://github.com/volkmarnissen))
+- \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#115](https://github.com/modbus2mqtt/server/pull/115) ([volkmarnissen](https://github.com/volkmarnissen))
+- \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#114](https://github.com/modbus2mqtt/server/pull/114) ([volkmarnissen](https://github.com/volkmarnissen))
+- No Internet access, Poll [\#113](https://github.com/modbus2mqtt/server/pull/113) ([volkmarnissen](https://github.com/volkmarnissen))
+- \[bug\]Modbus Error Handling, Slave Specification Detection, TCP RTU bridge, Fixes [\#112](https://github.com/modbus2mqtt/server/pull/112) ([volkmarnissen](https://github.com/volkmarnissen))
+- Modbus Error Handling and Monitoring/tree/modbuscache [\#110](https://github.com/modbus2mqtt/server/pull/110) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix Modbuscache, Add caching for modbusRTU [\#108](https://github.com/modbus2mqtt/server/pull/108) ([volkmarnissen](https://github.com/volkmarnissen))
+- Modbuscache [\#106](https://github.com/modbus2mqtt/server/pull/106) ([modbus2mqtt](https://github.com/modbus2mqtt))
+
 ## [v0.16.26](https://github.com/modbus2mqtt/server/tree/v0.16.26) (2025-04-14)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.25...v0.16.26)
@@ -195,7 +229,7 @@
 - Conflict with zigbee2mqtt - zigbee devices disappears [\#40](https://github.com/modbus2mqtt/server/issues/40)
 - \[Manufacturer related\] Unable to use negative temperatures [\#39](https://github.com/modbus2mqtt/server/issues/39)
 - \[FEAT\] Set availability of datapoint based on config-value [\#35](https://github.com/modbus2mqtt/server/issues/35)
-- \[BUG\] Measurements missing "state_class: measurement" [\#34](https://github.com/modbus2mqtt/server/issues/34)
+- \[BUG\] Measurements missing "state\_class: measurement" [\#34](https://github.com/modbus2mqtt/server/issues/34)
 - \[BUG\] Poll Interval not shown on creating slave [\#33](https://github.com/modbus2mqtt/server/issues/33)
 - \[FEAT\] disable auth [\#31](https://github.com/modbus2mqtt/server/issues/31)
 - \[FEAT\] support anonymous mqtt-connection [\#30](https://github.com/modbus2mqtt/server/issues/30)
@@ -203,7 +237,7 @@
 **Merged pull requests:**
 
 - Check all user services after reset [\#44](https://github.com/modbus2mqtt/server/pull/44) ([volkmarnissen](https://github.com/volkmarnissen))
-- MQTT discovery state_class, logon/MQTT no authentication [\#43](https://github.com/modbus2mqtt/server/pull/43) ([volkmarnissen](https://github.com/volkmarnissen))
+- MQTT discovery state\_class, logon/MQTT no authentication [\#43](https://github.com/modbus2mqtt/server/pull/43) ([volkmarnissen](https://github.com/volkmarnissen))
 - Merge pull request \#2 from modbus2mqtt/main [\#42](https://github.com/modbus2mqtt/server/pull/42) ([volkmarnissen](https://github.com/volkmarnissen))
 - Add cypress tests in ci [\#41](https://github.com/modbus2mqtt/server/pull/41) ([volkmarnissen](https://github.com/volkmarnissen))
 
@@ -358,4 +392,6 @@
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
 
-\* _This Changelog was automatically generated by [github_changelog_generator](https://github.com/github-changelog-generator/github-changelog-generator)_
+
+
+\* *This Changelog was automatically generated by [github_changelog_generator](https://github.com/github-changelog-generator/github-changelog-generator)*

@@ -1,5 +1,26 @@
 # Changelog for server
 
+## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/0.16.27...HEAD)
+
+**Fixed bugs:**
+
+- Baud rate 2400? [\#127](https://github.com/modbus2mqtt/server/issues/127)
+
+**Closed issues:**
+
+- Support for DVI Heating pumps [\#129](https://github.com/modbus2mqtt/server/issues/129)
+- Data is not updated [\#124](https://github.com/modbus2mqtt/server/issues/124)
+- \[Feature\] Add number of processed calls to Modbus Status [\#111](https://github.com/modbus2mqtt/server/issues/111)
+- Add possibility to convert the byte and the word order for numbers and also for texts [\#91](https://github.com/modbus2mqtt/server/issues/91)
+- Looks like that Unsigned Int32 and Signed Int32 is mixed [\#90](https://github.com/modbus2mqtt/server/issues/90)
+
+**Merged pull requests:**
+
+- Update push.yml [\#131](https://github.com/modbus2mqtt/server/pull/131) ([volkmarnissen](https://github.com/volkmarnissen))
+- Merge pull request \#5 from modbus2mqtt/main [\#130](https://github.com/modbus2mqtt/server/pull/130) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [0.16.27](https://github.com/modbus2mqtt/server/tree/0.16.27) (2025-09-03)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.27...0.16.27)

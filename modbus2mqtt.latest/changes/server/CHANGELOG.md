@@ -18,6 +18,7 @@
 
 **Merged pull requests:**
 
+- Fix after release: Removed version numbers in package.json [\#132](https://github.com/modbus2mqtt/server/pull/132) ([volkmarnissen](https://github.com/volkmarnissen))
 - Update push.yml [\#131](https://github.com/modbus2mqtt/server/pull/131) ([volkmarnissen](https://github.com/volkmarnissen))
 - Merge pull request \#5 from modbus2mqtt/main [\#130](https://github.com/modbus2mqtt/server/pull/130) ([volkmarnissen](https://github.com/volkmarnissen))
 

@@ -10,6 +10,7 @@
 
 **Closed issues:**
 
+- no polling outside of webUI [\#133](https://github.com/modbus2mqtt/server/issues/133)
 - Support for DVI Heating pumps [\#129](https://github.com/modbus2mqtt/server/issues/129)
 - Data is not updated [\#124](https://github.com/modbus2mqtt/server/issues/124)
 - \[Feature\] Add number of processed calls to Modbus Status [\#111](https://github.com/modbus2mqtt/server/issues/111)

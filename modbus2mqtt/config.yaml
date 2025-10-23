@@ -1,6 +1,6 @@
 name: "Modbus <=> MQTT"
 description: "Service converts Modbus RTU and TCP to MQTT and publishes entites to Home Assistant"
-version: 0.16.33
+version: 0.16.35
 image: ghcr.io/modbus2mqtt/modbus2mqtt
 url: https://github.com/modbus2mqtt/server/blob/main/introduction.md
 webui: http://[HOST]:[PORT:3000]

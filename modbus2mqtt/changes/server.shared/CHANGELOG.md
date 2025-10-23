@@ -1,5 +1,17 @@
 # Changelog for server.shared
 
+## [Unreleased](https://github.com/modbus2mqtt/server.shared/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.18...HEAD)
+
+**Merged pull requests:**
+
+- Enable Display and Input in Hex format for modbus Addresses [\#7](https://github.com/modbus2mqtt/server.shared/pull/7) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [v0.13.18](https://github.com/modbus2mqtt/server.shared/tree/v0.13.18) (2025-09-03)
+
+[Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.17...v0.13.18)
+
 ## [v0.13.17](https://github.com/modbus2mqtt/server.shared/tree/v0.13.17) (2025-09-03)
 
 [Full Changelog](https://github.com/modbus2mqtt/server.shared/compare/v0.13.16...v0.13.17)

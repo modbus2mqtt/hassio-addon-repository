@@ -1,8 +1,8 @@
 # Changelog for server
 
-## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+## [v0.16.32](https://github.com/modbus2mqtt/server/tree/v0.16.32) (2025-10-23)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/0.16.27...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/0.16.27...v0.16.32)
 
 **Fixed bugs:**
 

@@ -19,6 +19,7 @@
 
 **Merged pull requests:**
 
+- Sync to upstream [\#138](https://github.com/modbus2mqtt/server/pull/138) ([volkmarnissen](https://github.com/volkmarnissen))
 - Mergepkgs [\#136](https://github.com/modbus2mqtt/server/pull/136) ([volkmarnissen](https://github.com/volkmarnissen))
 - Mergepkgs [\#135](https://github.com/modbus2mqtt/server/pull/135) ([volkmarnissen](https://github.com/volkmarnissen))
 - Fix after release: Removed version numbers in package.json [\#132](https://github.com/modbus2mqtt/server/pull/132) ([volkmarnissen](https://github.com/volkmarnissen))

@@ -1,8 +1,8 @@
 # Changelog for server
 
-## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+## [v0.16.41](https://github.com/modbus2mqtt/server/tree/v0.16.41) (2025-10-24)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.38...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.38...v0.16.41)
 
 **Merged pull requests:**
 
@@ -452,7 +452,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/server/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/server/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
 
 
 

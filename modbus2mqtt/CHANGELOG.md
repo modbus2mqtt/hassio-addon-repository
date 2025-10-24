@@ -1,5 +1,13 @@
 # Changelog for server
 
+## [v0.16.34](https://github.com/modbus2mqtt/server/tree/v0.16.34) (2025-10-23)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.33...v0.16.34)
+
+## [v0.16.33](https://github.com/modbus2mqtt/server/tree/v0.16.33) (2025-10-23)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.32...v0.16.33)
+
 ## [v0.16.32](https://github.com/modbus2mqtt/server/tree/v0.16.32) (2025-10-23)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/0.16.27...v0.16.32)

@@ -7,5 +7,5 @@ if [ `bashio::addon.network | grep 9229 | wc -l` == 1 ]
 then
   inspect=--inspect
 fi
-node $inspect node_modules/@modbus2mqtt/server/dist/modbus2mqtt.js --yaml /data --ssl /ssl
+node $inspect node_modules/@modbus2mqtt/dist/server/modbus2mqtt.js --yaml /data --ssl /ssl
  

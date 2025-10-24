@@ -1,4 +1,4 @@
-# Changelog for server
+# Changelog for Modbus <=> MQTT
 
 ## [v0.16.41](https://github.com/modbus2mqtt/server/tree/v0.16.41) (2025-10-24)
 

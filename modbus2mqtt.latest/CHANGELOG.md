@@ -1,5 +1,17 @@
 # Changelog for server
 
+## [Unreleased](https://github.com/modbus2mqtt/server/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.38...HEAD)
+
+**Merged pull requests:**
+
+- Fix regex match/search .latest [\#139](https://github.com/modbus2mqtt/server/pull/139) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [v0.16.38](https://github.com/modbus2mqtt/server/tree/v0.16.38) (2025-10-24)
+
+[Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.37...v0.16.38)
+
 ## [v0.16.37](https://github.com/modbus2mqtt/server/tree/v0.16.37) (2025-10-24)
 
 [Full Changelog](https://github.com/modbus2mqtt/server/compare/v0.16.36...v0.16.37)

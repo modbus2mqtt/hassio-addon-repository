@@ -1,19 +1,5 @@
 # Changelog for angular
 
-## [Unreleased](https://github.com/modbus2mqtt/angular/tree/HEAD)
-
-[Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.22...HEAD)
-
-**Merged pull requests:**
-
-- Swap Words and Swap Bytes for numbers [\#17](https://github.com/modbus2mqtt/angular/pull/17) ([volkmarnissen](https://github.com/volkmarnissen))
-- Baudrate 2400, 4800 is not configurable [\#16](https://github.com/modbus2mqtt/angular/pull/16) ([volkmarnissen](https://github.com/volkmarnissen))
-- Enable Display and Input in Hex format for modbus Addresses [\#14](https://github.com/modbus2mqtt/angular/pull/14) ([volkmarnissen](https://github.com/volkmarnissen))
-
-## [v0.12.22](https://github.com/modbus2mqtt/angular/tree/v0.12.22) (2025-09-03)
-
-[Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.21...v0.12.22)
-
 ## [v0.12.21](https://github.com/modbus2mqtt/angular/tree/v0.12.21) (2025-09-03)
 
 [Full Changelog](https://github.com/modbus2mqtt/angular/compare/v0.12.20...v0.12.21)

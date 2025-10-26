@@ -1,17 +1,5 @@
 # Changelog for specification.shared
 
-## [Unreleased](https://github.com/modbus2mqtt/specification.shared/tree/HEAD)
-
-[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.17...HEAD)
-
-**Merged pull requests:**
-
-- Swap Words and Swap Bytes for numbers [\#10](https://github.com/modbus2mqtt/specification.shared/pull/10) ([volkmarnissen](https://github.com/volkmarnissen))
-
-## [v0.10.17](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.17) (2025-09-02)
-
-[Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.16...v0.10.17)
-
 ## [v0.10.16](https://github.com/modbus2mqtt/specification.shared/tree/v0.10.16) (2025-09-02)
 
 [Full Changelog](https://github.com/modbus2mqtt/specification.shared/compare/v0.10.15...v0.10.16)

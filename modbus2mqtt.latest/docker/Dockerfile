@@ -16,18 +16,6 @@ RUN cp -R ./rootfs/* /
 #RUN npm init -y && \
 #    npm install github:modbus2mqtt/server
 
-# @serialport/bindings-cpp might need recompilation. 
-# Otherwise one could use npx @modbus2mqtt/server directly
-RUN apk --print-arch && \
-    alpineArch="$(apk --print-arch)" && \
-    if [ "x86_64" != "${alpineArch}"  ] ; then \
-    apk update && \
-    apk upgrade && \
-    apk add  --update --no-cache && \
-    apk add g++ make build-base linux-headers udev  && \
-    npm install --save-dev node-gyp-build && \
-    npm rebuild @serialport/bindings-cpp --build-from-source; \
-    fi
 # Health check
 HEALTHCHECK --start-period=10m \
     CMD curl --fail http://127.0.0.1:3000 || exit 1

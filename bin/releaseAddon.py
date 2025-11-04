@@ -62,24 +62,24 @@ def pusblishDocker(basedir, version):
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-c", "--componentdir", help="root directory of npm package", default='.')
+parser.add_argument("-v", "--version", help="npm package version", default='.')
 
 args = parser.parse_args()
-version = repositories.readPackageJson(os.path.join(args.componentdir, 'package.json'))['version']
-print("TAG_NAME=" + version)
+print("TAG_NAME=" + args.version)
 
 if re.search(r'\.latest', args.componentdir):
     replacements = [
-        StringReplacement(pattern='version: [0-9.][^\\n]*', newValue='version: ' +version  + '\n'),
+        StringReplacement(pattern='version: [0-9.][^\\n]*', newValue='version: ' +args.version  + '\n'),
         ]
     updateConfigAndDockerfile(modbus2mqttLatest, replacements,replacements)
 else:
     # release
     repositories.executeSyncCommand(['rsync', '-avh', modbus2mqttLatest + '/', modbus2mqtt +'/'])
-    removeTag( 'v' +version)
+    removeTag( 'v' +args.version)
     githuburl = 'github:modbus2mqtt/server'
     replacements = [
         StringReplacement(pattern='version: [0-9.]*[^\\n]*', 
-                          newValue='version: ' +  version +'\n'),
+                          newValue='version: ' +  args.version +'\n'),
         StringReplacement(pattern='Modbus <=> MQTT latest', 
                           newValue='Modbus <=> MQTT' ),
         StringReplacement(pattern='image: ghcr.io/modbus2mqtt/modbus2mqtt.latest', newValue= 'image: ghcr.io/modbus2mqtt/modbus2mqtt'),
@@ -87,6 +87,6 @@ else:
         StringReplacement(pattern='\\s*9229/tcp: null\\n', newValue='\n'),
         ]
     replacementsDocker = [
-        StringReplacement(pattern=githuburl+ '[^\\n]*', newValue=githuburl + '#v' + version  )
+        StringReplacement(pattern=githuburl+ '[^\\n]*', newValue=githuburl + '#v' + args.version  )
         ]        
     updateConfigAndDockerfile(modbus2mqtt, replacements,replacements)

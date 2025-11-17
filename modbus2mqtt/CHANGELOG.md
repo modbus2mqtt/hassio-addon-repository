@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [Unreleased](https://github.com/modbus2mqtt/modbus2mqtt/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.0...HEAD)
+
+**Merged pull requests:**
+
+- Fix migration Problem [\#170](https://github.com/modbus2mqtt/modbus2mqtt/pull/170) ([volkmarnissen](https://github.com/volkmarnissen))
+- Add more understandable comment for checout hassio and modbus2mqtt [\#168](https://github.com/modbus2mqtt/modbus2mqtt/pull/168) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.17.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.0) (2025-11-15)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/true...v0.17.0)
@@ -492,7 +501,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
 
 
 

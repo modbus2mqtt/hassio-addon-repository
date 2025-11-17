@@ -1,8 +1,8 @@
 ## Changelog for Modbus <=> MQTT
 
-## [Unreleased](https://github.com/modbus2mqtt/modbus2mqtt/tree/HEAD)
+## [v0.17.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.1) (2025-11-17)
 
-[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.0...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.0...v0.17.1)
 
 **Merged pull requests:**
 
@@ -501,7 +501,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
 
 
 

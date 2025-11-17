@@ -1,5 +1,5 @@
 name: "Modbus <=> MQTT latest"
-description: "Service converts Modbus RTU and TCP to MQTT and publishes entites to Home Assistant"
+description: "No longer supported: Use **Modbus <=> MQTT**"
 version: 0.16.44
 
 

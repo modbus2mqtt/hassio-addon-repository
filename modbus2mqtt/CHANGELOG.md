@@ -7,6 +7,13 @@
 **Closed issues:**
 
 - Hassio Addon does not have access to serial [\#169](https://github.com/modbus2mqtt/modbus2mqtt/issues/169)
+- Read coils actually reads discrete inputs [\#145](https://github.com/modbus2mqtt/modbus2mqtt/issues/145)
+
+**Merged pull requests:**
+
+- ESLint improvements [\#174](https://github.com/modbus2mqtt/modbus2mqtt/pull/174) ([volkmarnissen](https://github.com/volkmarnissen))
+- Modbus RTU read coils: Fix read from coils instead of discreteInput [\#173](https://github.com/modbus2mqtt/modbus2mqtt/pull/173) ([volkmarnissen](https://github.com/volkmarnissen))
+- Migrate to new file system structure [\#172](https://github.com/modbus2mqtt/modbus2mqtt/pull/172) ([volkmarnissen](https://github.com/volkmarnissen))
 
 ## [v0.17.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.1) (2025-11-17)
 
@@ -509,7 +516,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/c887779cc03ebbe51dd0b2eb0456314798829518...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
 
 
 

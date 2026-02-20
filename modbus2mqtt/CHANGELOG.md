@@ -1,5 +1,13 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.17.5](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.5) (2026-02-20)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/vpatch...v0.17.5)
+
+**Merged pull requests:**
+
+- Fixed release workflow [\#196](https://github.com/modbus2mqtt/modbus2mqtt/pull/196) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [vpatch](https://github.com/modbus2mqtt/modbus2mqtt/tree/vpatch) (2026-02-19)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.2...vpatch)

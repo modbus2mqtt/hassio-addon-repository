@@ -1,8 +1,35 @@
 ## Changelog for Modbus <=> MQTT
 
-## [Unreleased](https://github.com/modbus2mqtt/modbus2mqtt/tree/HEAD)
+## [vpatch](https://github.com/modbus2mqtt/modbus2mqtt/tree/vpatch) (2026-02-19)
 
-[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.1...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.2...vpatch)
+
+**Closed issues:**
+
+- modbus2mqtt connection does not reconnect to mqtt server after connection loss. [\#191](https://github.com/modbus2mqtt/modbus2mqtt/issues/191)
+- Contributing from UI failed [\#190](https://github.com/modbus2mqtt/modbus2mqtt/issues/190)
+- docker-compose install failing [\#189](https://github.com/modbus2mqtt/modbus2mqtt/issues/189)
+- Devices are not polled -fatal: detected dubious ownership in repository at '/data/public' [\#177](https://github.com/modbus2mqtt/modbus2mqtt/issues/177)
+- /dev/ttyUSB0 permission not granted [\#175](https://github.com/modbus2mqtt/modbus2mqtt/issues/175)
+- How to setup Modbus RTU over TCP? [\#171](https://github.com/modbus2mqtt/modbus2mqtt/issues/171)
+
+**Merged pull requests:**
+
+- Replace APK Build in release workflow with npm tar build [\#195](https://github.com/modbus2mqtt/modbus2mqtt/pull/195) ([volkmarnissen](https://github.com/volkmarnissen))
+- Refactored frontend build use @shared instead of symbolic link, refactored modbus2mqtt.config [\#194](https://github.com/modbus2mqtt/modbus2mqtt/pull/194) ([volkmarnissen](https://github.com/volkmarnissen))
+- Playwright introduction and Fix for issues \#191 [\#193](https://github.com/modbus2mqtt/modbus2mqtt/pull/193) ([volkmarnissen](https://github.com/volkmarnissen))
+- Refactoring to improve code quality [\#192](https://github.com/modbus2mqtt/modbus2mqtt/pull/192) ([volkmarnissen](https://github.com/volkmarnissen))
+- Refactor/backend frontend split 2026 01 22 [\#187](https://github.com/modbus2mqtt/modbus2mqtt/pull/187) ([volkmarnissen](https://github.com/volkmarnissen))
+- Refactor/backend frontend split 2026 01 22 [\#186](https://github.com/modbus2mqtt/modbus2mqtt/pull/186) ([volkmarnissen](https://github.com/volkmarnissen))
+- Refactor/backend frontend split 2026 01 22 [\#185](https://github.com/modbus2mqtt/modbus2mqtt/pull/185) ([volkmarnissen](https://github.com/volkmarnissen))
+- Refacroting and Migration to ESM [\#184](https://github.com/modbus2mqtt/modbus2mqtt/pull/184) ([volkmarnissen](https://github.com/volkmarnissen))
+- Add binary to package.json [\#182](https://github.com/modbus2mqtt/modbus2mqtt/pull/182) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix: devices now poll continuously instead of only once [\#179](https://github.com/modbus2mqtt/modbus2mqtt/pull/179) ([chrissnow](https://github.com/chrissnow))
+- Improve english language test. Refactored git hooks [\#176](https://github.com/modbus2mqtt/modbus2mqtt/pull/176) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [v0.17.2](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.2) (2025-11-27)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.1...v0.17.2)
 
 **Closed issues:**
 
@@ -516,7 +543,7 @@
 
 ## [0.8.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/0.8.0) (2024-06-21)
 
-[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/e10c8d90dae26c00b0dde56c430bab4944c645de...0.8.0)
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/b6bee56df33b93d55bdf24b8406309787967d879...0.8.0)
 
 
 

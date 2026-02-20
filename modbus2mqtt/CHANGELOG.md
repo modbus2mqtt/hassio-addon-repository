@@ -1,5 +1,13 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.17.8](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.8) (2026-02-20)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.7...v0.17.8)
+
+**Merged pull requests:**
+
+- Avoid polling when no MQTT is configured. [\#199](https://github.com/modbus2mqtt/modbus2mqtt/pull/199) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.17.7](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.7) (2026-02-20)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.6...v0.17.7)

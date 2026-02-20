@@ -4,6 +4,7 @@ version: 0.17.8
 image: ghcr.io/modbus2mqtt/modbus2mqtt
 url: https://github.com/modbus2mqtt/modbus2mqtt/blob/main/introduction.md
 webui: http://[HOST]:[PORT:3000]
+watchdog: http://[HOST]:[PORT:3000]/
 panel_icon: mdi:arrow-left-right-bold-outline
 slug: modbus2mqtt
 arch:

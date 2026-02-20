@@ -1,5 +1,13 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.17.7](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.7) (2026-02-20)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.6...v0.17.7)
+
+**Merged pull requests:**
+
+- Fix git clone issue in public directory [\#198](https://github.com/modbus2mqtt/modbus2mqtt/pull/198) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.17.6](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.6) (2026-02-20)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.5...v0.17.6)

@@ -1,5 +1,13 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.17.9](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.9) (2026-02-20)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.8...v0.17.9)
+
+**Merged pull requests:**
+
+- Fix health check in dockerfile [\#200](https://github.com/modbus2mqtt/modbus2mqtt/pull/200) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.17.8](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.8) (2026-02-20)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.7...v0.17.8)

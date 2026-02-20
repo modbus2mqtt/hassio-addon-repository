@@ -1,5 +1,13 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.17.6](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.6) (2026-02-20)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.5...v0.17.6)
+
+**Merged pull requests:**
+
+- Fixes for noisy logging and empty public directories [\#197](https://github.com/modbus2mqtt/modbus2mqtt/pull/197) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.17.5](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.5) (2026-02-20)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/vpatch...v0.17.5)

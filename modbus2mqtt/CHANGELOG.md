@@ -1,5 +1,25 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.18.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.18.0) (2026-02-22)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.12...v0.18.0)
+
+**Fixed bugs:**
+
+- haos web ui don't start [\#156](https://github.com/modbus2mqtt/modbus2mqtt/issues/156)
+
+**Closed issues:**
+
+- Newly added registers/entities disappear after restart \(configuration not persisted\) [\#188](https://github.com/modbus2mqtt/modbus2mqtt/issues/188)
+- I am not able to select created "specification" [\#180](https://github.com/modbus2mqtt/modbus2mqtt/issues/180)
+- Problem setting modbus addresses [\#178](https://github.com/modbus2mqtt/modbus2mqtt/issues/178)
+- modbus polling [\#134](https://github.com/modbus2mqtt/modbus2mqtt/issues/134)
+
+**Merged pull requests:**
+
+- Important Refactoring of Specification and Persistence [\#205](https://github.com/modbus2mqtt/modbus2mqtt/pull/205) ([volkmarnissen](https://github.com/volkmarnissen))
+- Fix issue with french language \#156 [\#204](https://github.com/modbus2mqtt/modbus2mqtt/pull/204) ([modbus2mqtt](https://github.com/modbus2mqtt))
+
 ## [v0.17.12](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.17.12) (2026-02-20)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.11...v0.17.12)

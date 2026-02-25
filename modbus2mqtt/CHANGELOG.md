@@ -1,5 +1,29 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.20.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.20.0) (2026-02-25)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.18.0...modbus2mqtt-v0.20.0)
+
+**Closed issues:**
+
+- Can not change Specification anymore [\#212](https://github.com/modbus2mqtt/modbus2mqtt/issues/212)
+- difference between versions Modbus \<=\> MQTT latest and Modbus \<=\> MQTT [\#207](https://github.com/modbus2mqtt/modbus2mqtt/issues/207)
+
+**Merged pull requests:**
+
+- ci: Fix release-please [\#221](https://github.com/modbus2mqtt/modbus2mqtt/pull/221) ([volkmarnissen](https://github.com/volkmarnissen))
+- chore\(main\): release modbus2mqtt 0.20.0 [\#220](https://github.com/modbus2mqtt/modbus2mqtt/pull/220) ([github-actions[bot]](https://github.com/apps/github-actions))
+- ci: trigger release-please after enabling PR creation permission [\#217](https://github.com/modbus2mqtt/modbus2mqtt/pull/217) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: Add environment setting for release job [\#216](https://github.com/modbus2mqtt/modbus2mqtt/pull/216) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- ci: trigger release-please after enabling PR creation permission [\#215](https://github.com/modbus2mqtt/modbus2mqtt/pull/215) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci:  fixes release-please problem [\#214](https://github.com/modbus2mqtt/modbus2mqtt/pull/214) ([volkmarnissen](https://github.com/volkmarnissen))
+- fix\(backend\): increased payload limit to 50MB for issue  [\#213](https://github.com/modbus2mqtt/modbus2mqtt/pull/213) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: enable Release please\(google\) [\#211](https://github.com/modbus2mqtt/modbus2mqtt/pull/211) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: add PR template and restrict auto-merge to trusted users  [\#210](https://github.com/modbus2mqtt/modbus2mqtt/pull/210) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: auto-merge fix: start auto-merge also after ready for code-review [\#209](https://github.com/modbus2mqtt/modbus2mqtt/pull/209) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: add PR template and restrict auto-merge to trusted users [\#208](https://github.com/modbus2mqtt/modbus2mqtt/pull/208) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: enforce conventional, enable auto merge for PR's [\#206](https://github.com/modbus2mqtt/modbus2mqtt/pull/206) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.18.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.18.0) (2026-02-22)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.17.12...v0.18.0)

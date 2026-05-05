@@ -1,5 +1,61 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.24.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.24.1) (2026-05-05)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.24.0...v0.24.1)
+
+**Merged pull requests:**
+
+- ci: \(release-assets\): install backend deps before running tests [\#244](https://github.com/modbus2mqtt/modbus2mqtt/pull/244) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.24.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.24.0) (2026-05-05)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.23.0...modbus2mqtt-v0.24.0)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.24.0 [\#243](https://github.com/modbus2mqtt/modbus2mqtt/pull/243) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- feat: import local dir rest api [\#242](https://github.com/modbus2mqtt/modbus2mqtt/pull/242) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.23.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.23.0) (2026-05-05)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.22.0...modbus2mqtt-v0.23.0)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.23.0 [\#241](https://github.com/modbus2mqtt/modbus2mqtt/pull/241) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- feat: discovery hardware version  [\#240](https://github.com/modbus2mqtt/modbus2mqtt/pull/240) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.22.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.22.0) (2026-05-05)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.21.0...modbus2mqtt-v0.22.0)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.22.0 [\#239](https://github.com/modbus2mqtt/modbus2mqtt/pull/239) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- feat: import local dir rest api [\#238](https://github.com/modbus2mqtt/modbus2mqtt/pull/238) ([volkmarnissen](https://github.com/volkmarnissen))
+- Add token input for release-please-action [\#236](https://github.com/modbus2mqtt/modbus2mqtt/pull/236) ([modbus2mqtt](https://github.com/modbus2mqtt))
+
+## [modbus2mqtt-v0.21.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.21.0) (2026-04-22)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.20.0...modbus2mqtt-v0.21.0)
+
+**Closed issues:**
+
+- Possible BUG: Defining specification - entity using Variable Properties [\#228](https://github.com/modbus2mqtt/modbus2mqtt/issues/228)
+- PayloadTooLargeError [\#218](https://github.com/modbus2mqtt/modbus2mqtt/issues/218)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.21.0 [\#235](https://github.com/modbus2mqtt/modbus2mqtt/pull/235) ([github-actions[bot]](https://github.com/apps/github-actions))
+- feat\(discovery\): add hw\_version + configuration\_url and fix post-poll republish \(\#228\) [\#234](https://github.com/modbus2mqtt/modbus2mqtt/pull/234) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: use squash merges for auto-merge [\#233](https://github.com/modbus2mqtt/modbus2mqtt/pull/233) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: use squash merges for auto-merge [\#232](https://github.com/modbus2mqtt/modbus2mqtt/pull/232) ([volkmarnissen](https://github.com/volkmarnissen))
+- feat: Integrate OIDC authentication, enhance logging, and update docs [\#230](https://github.com/modbus2mqtt/modbus2mqtt/pull/230) ([volkmarnissen](https://github.com/volkmarnissen))
+- feat: auto-detect HTTPS certificates in /ssl directory [\#224](https://github.com/modbus2mqtt/modbus2mqtt/pull/224) ([volkmarnissen](https://github.com/volkmarnissen))
+- feat: https Support implemented [\#223](https://github.com/modbus2mqtt/modbus2mqtt/pull/223) ([volkmarnissen](https://github.com/volkmarnissen))
+- fix: Fix/validate specification [\#222](https://github.com/modbus2mqtt/modbus2mqtt/pull/222) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.20.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.20.0) (2026-02-25)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.18.0...modbus2mqtt-v0.20.0)

@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [v0.24.2](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.24.2) (2026-06-01)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.24.1...v0.24.2)
+
+**Merged pull requests:**
+
+- feat: implement SSL file listing and reading functionality in ConfigP… [\#247](https://github.com/modbus2mqtt/modbus2mqtt/pull/247) ([volkmarnissen](https://github.com/volkmarnissen))
+- ci: release assets install backend [\#245](https://github.com/modbus2mqtt/modbus2mqtt/pull/245) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.24.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.24.1) (2026-05-05)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.24.0...v0.24.1)

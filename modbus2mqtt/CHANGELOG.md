@@ -1,5 +1,23 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.25.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.1) (2026-06-06)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.0...modbus2mqtt-v0.25.1)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.1 [\#251](https://github.com/modbus2mqtt/modbus2mqtt/pull/251) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix: add cloning of public files in M2mGitHub when directory is empty [\#250](https://github.com/modbus2mqtt/modbus2mqtt/pull/250) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.25.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.0) (2026-06-06)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.24.2...modbus2mqtt-v0.25.0)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.0 [\#249](https://github.com/modbus2mqtt/modbus2mqtt/pull/249) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- refactor: improve Modbus client connection handling and error management [\#248](https://github.com/modbus2mqtt/modbus2mqtt/pull/248) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [v0.24.2](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.24.2) (2026-06-01)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/v0.24.1...v0.24.2)

@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.25.2](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.2) (2026-06-17)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.1...modbus2mqtt-v0.25.2)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.2 [\#253](https://github.com/modbus2mqtt/modbus2mqtt/pull/253) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix: OIDC CORS origin + harden MQTT publishState [\#252](https://github.com/modbus2mqtt/modbus2mqtt/pull/252) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.25.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.1) (2026-06-06)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.0...modbus2mqtt-v0.25.1)

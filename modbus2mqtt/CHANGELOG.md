@@ -1,5 +1,32 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.25.5](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.5) (2026-07-04)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.4...modbus2mqtt-v0.25.5)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.5 [\#260](https://github.com/modbus2mqtt/modbus2mqtt/pull/260) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- refactor: modular HTTP layer with full route test coverage [\#259](https://github.com/modbus2mqtt/modbus2mqtt/pull/259) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.25.4](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.4) (2026-06-26)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.3...modbus2mqtt-v0.25.4)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.4 [\#258](https://github.com/modbus2mqtt/modbus2mqtt/pull/258) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix: display specification documents \(PDF\) via blob URL [\#257](https://github.com/modbus2mqtt/modbus2mqtt/pull/257) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.25.3](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.3) (2026-06-17)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.2...modbus2mqtt-v0.25.3)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.3 [\#256](https://github.com/modbus2mqtt/modbus2mqtt/pull/256) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix: default modbus bus timeout to 1000ms \(TCP defaulted to 100ms\) [\#255](https://github.com/modbus2mqtt/modbus2mqtt/pull/255) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.25.2](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.2) (2026-06-17)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.1...modbus2mqtt-v0.25.2)

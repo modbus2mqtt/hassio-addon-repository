@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.25.6](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.6) (2026-07-04)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.5...modbus2mqtt-v0.25.6)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.6 [\#263](https://github.com/modbus2mqtt/modbus2mqtt/pull/263) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- refactor: decompose m2mspecification.ts into single-concern modules [\#262](https://github.com/modbus2mqtt/modbus2mqtt/pull/262) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.25.5](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.5) (2026-07-04)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.4...modbus2mqtt-v0.25.5)

@@ -1,5 +1,23 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.25.8](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.8) (2026-07-09)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.7...modbus2mqtt-v0.25.8)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.8 [\#268](https://github.com/modbus2mqtt/modbus2mqtt/pull/268) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- perf: decouple slaves from specifications in the HTTP API [\#267](https://github.com/modbus2mqtt/modbus2mqtt/pull/267) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.25.7](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.7) (2026-07-09)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.6...modbus2mqtt-v0.25.7)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.7 [\#265](https://github.com/modbus2mqtt/modbus2mqtt/pull/265) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix: show error when new slave uses an existing slave id [\#264](https://github.com/modbus2mqtt/modbus2mqtt/pull/264) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.25.6](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.6) (2026-07-04)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.5...modbus2mqtt-v0.25.6)
@@ -324,7 +342,6 @@
 - Fix startServers [\#149](https://github.com/modbus2mqtt/modbus2mqtt/pull/149) ([volkmarnissen](https://github.com/volkmarnissen))
 - remove e2eReset [\#148](https://github.com/modbus2mqtt/modbus2mqtt/pull/148) ([volkmarnissen](https://github.com/volkmarnissen))
 - Test pull action [\#147](https://github.com/modbus2mqtt/modbus2mqtt/pull/147) ([volkmarnissen](https://github.com/volkmarnissen))
-- Fixes for running w/o parameter and w/o development components [\#146](https://github.com/modbus2mqtt/modbus2mqtt/pull/146) ([volkmarnissen](https://github.com/volkmarnissen))
 - Change command line [\#144](https://github.com/modbus2mqtt/modbus2mqtt/pull/144) ([volkmarnissen](https://github.com/volkmarnissen))
 
 ## [v0.16.41](https://github.com/modbus2mqtt/modbus2mqtt/tree/v0.16.41) (2025-10-24)

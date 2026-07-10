@@ -1,5 +1,22 @@
 ## Changelog for Modbus <=> MQTT
 
+## [Unreleased](https://github.com/modbus2mqtt/modbus2mqtt/tree/HEAD)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.27.0...HEAD)
+
+**Merged pull requests:**
+
+- ci: expose skip\_github\_release on manual dispatch [\#276](https://github.com/modbus2mqtt/modbus2mqtt/pull/276) ([volkmarnissen](https://github.com/volkmarnissen))
+
+## [modbus2mqtt-v0.27.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.27.0) (2026-07-10)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.26.1...modbus2mqtt-v0.27.0)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.27.0 [\#275](https://github.com/modbus2mqtt/modbus2mqtt/pull/275) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- feat: POST Body Example preview in slave HTTP Push section [\#274](https://github.com/modbus2mqtt/modbus2mqtt/pull/274) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.26.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.26.1) (2026-07-10)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.26.0...modbus2mqtt-v0.26.1)

@@ -1,11 +1,13 @@
 ## Changelog for Modbus <=> MQTT
 
-## [Unreleased](https://github.com/modbus2mqtt/modbus2mqtt/tree/HEAD)
+## [modbus2mqtt-v0.27.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.27.1) (2026-07-10)
 
-[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.27.0...HEAD)
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.27.0...modbus2mqtt-v0.27.1)
 
 **Merged pull requests:**
 
+- chore\(main\): release modbus2mqtt 0.27.1 [\#278](https://github.com/modbus2mqtt/modbus2mqtt/pull/278) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix: live-update HTTP push body preview under zoneless CD [\#277](https://github.com/modbus2mqtt/modbus2mqtt/pull/277) ([volkmarnissen](https://github.com/volkmarnissen))
 - ci: expose skip\_github\_release on manual dispatch [\#276](https://github.com/modbus2mqtt/modbus2mqtt/pull/276) ([volkmarnissen](https://github.com/volkmarnissen))
 
 ## [modbus2mqtt-v0.27.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.27.0) (2026-07-10)

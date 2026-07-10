@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.25.9](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.9) (2026-07-10)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.8...modbus2mqtt-v0.25.9)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.25.9 [\#270](https://github.com/modbus2mqtt/modbus2mqtt/pull/270) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix: sort slaves numerically by slaveid [\#269](https://github.com/modbus2mqtt/modbus2mqtt/pull/269) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.25.8](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.25.8) (2026-07-09)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.25.7...modbus2mqtt-v0.25.8)

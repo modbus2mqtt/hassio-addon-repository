@@ -1,5 +1,27 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.32.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.32.0) (2026-07-13)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.31.0...modbus2mqtt-v0.32.0)
+
+**Closed issues:**
+
+- U32 + Swap Word decodes Total DC power as huge shifted value on Sungrow SHx [\#246](https://github.com/modbus2mqtt/modbus2mqtt/issues/246)
+- after updating home assistant, modbus2mqtt does not send mqtt messages [\#237](https://github.com/modbus2mqtt/modbus2mqtt/issues/237)
+- Some Values from my heating control toggling between unknown and real value [\#229](https://github.com/modbus2mqtt/modbus2mqtt/issues/229)
+- Problem when trying to edit config [\#227](https://github.com/modbus2mqtt/modbus2mqtt/issues/227)
+- Missing register address field. [\#78](https://github.com/modbus2mqtt/modbus2mqtt/issues/78)
+
+**Merged pull requests:**
+
+- fix: a slave that cannot be polled says so in Status & Errors [\#294](https://github.com/modbus2mqtt/modbus2mqtt/pull/294) ([volkmarnissen](https://github.com/volkmarnissen))
+- feat: configurable serial framing \(data bits, parity, stop bits\) [\#292](https://github.com/modbus2mqtt/modbus2mqtt/pull/292) ([volkmarnissen](https://github.com/volkmarnissen))
+- fix: honour swapWords/swapBytes and keep the last value on a failed poll [\#291](https://github.com/modbus2mqtt/modbus2mqtt/pull/291) ([volkmarnissen](https://github.com/volkmarnissen))
+- chore\(main\): release modbus2mqtt 0.32.0 [\#290](https://github.com/modbus2mqtt/modbus2mqtt/pull/290) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- feat: add per-slave maxRegistersPerRequest for Modbus read chunking [\#283](https://github.com/modbus2mqtt/modbus2mqtt/pull/283) ([jvlasek](https://github.com/jvlasek))
+- fix: render slave list reliably under zoneless change detection [\#282](https://github.com/modbus2mqtt/modbus2mqtt/pull/282) ([jvlasek](https://github.com/jvlasek))
+- fix\(devcontainer\): make the devcontainer work with pnpm + Node 22 [\#281](https://github.com/modbus2mqtt/modbus2mqtt/pull/281) ([jvlasek](https://github.com/jvlasek))
+
 ## [modbus2mqtt-v0.31.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.31.0) (2026-07-13)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.30.0...modbus2mqtt-v0.31.0)

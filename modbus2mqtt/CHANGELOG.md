@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.30.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.30.0) (2026-07-13)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.29.0...modbus2mqtt-v0.30.0)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.30.0 [\#287](https://github.com/modbus2mqtt/modbus2mqtt/pull/287) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- feat: slave references - inherit a slave's configuration on the same bus [\#286](https://github.com/modbus2mqtt/modbus2mqtt/pull/286) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.29.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.29.0) (2026-07-13)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.28.0...modbus2mqtt-v0.29.0)

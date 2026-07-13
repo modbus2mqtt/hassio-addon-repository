@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.29.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.29.0) (2026-07-13)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.28.0...modbus2mqtt-v0.29.0)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.29.0 [\#285](https://github.com/modbus2mqtt/modbus2mqtt/pull/285) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- feat: add {{ slaveName }} URL placeholder for HTTP push [\#284](https://github.com/modbus2mqtt/modbus2mqtt/pull/284) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.28.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.28.0) (2026-07-10)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.27.1...modbus2mqtt-v0.28.0)

@@ -1,5 +1,14 @@
 ## Changelog for Modbus <=> MQTT
 
+## [modbus2mqtt-v0.32.1](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.32.1) (2026-07-14)
+
+[Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.32.0...modbus2mqtt-v0.32.1)
+
+**Merged pull requests:**
+
+- chore\(main\): release modbus2mqtt 0.32.1 [\#296](https://github.com/modbus2mqtt/modbus2mqtt/pull/296) ([modbus2mqtt](https://github.com/modbus2mqtt))
+- fix\(ui\): show the failing url in Status & Errors, reject a blank in the push url [\#295](https://github.com/modbus2mqtt/modbus2mqtt/pull/295) ([volkmarnissen](https://github.com/volkmarnissen))
+
 ## [modbus2mqtt-v0.32.0](https://github.com/modbus2mqtt/modbus2mqtt/tree/modbus2mqtt-v0.32.0) (2026-07-13)
 
 [Full Changelog](https://github.com/modbus2mqtt/modbus2mqtt/compare/modbus2mqtt-v0.31.0...modbus2mqtt-v0.32.0)
